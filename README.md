@@ -11,4 +11,4 @@ During my tenure at TPL Corporation, I had the opportunity to work on various im
 3. **Statistical Analysis of Home Prices**  
    Conducted an in-depth statistical analysis using Excel to investigate the factors that influence the price of a home. This project involved data cleaning, hypothesis testing, and regression analysis to uncover key market trends.
 
-These projects are attached in this repository for review and further development.
+These projects are attached in this repository for further development.
